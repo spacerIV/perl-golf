@@ -13,3 +13,6 @@
 
 - y///c is one character shorter than length
 - ($x=~/./g) is two characters shorter than (split//,$x)
+
+
+#### here we go
